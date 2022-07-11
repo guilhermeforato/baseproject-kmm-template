@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseProject.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/BaseProject.androidApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseProject.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseProject.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseProject.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseProject.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseProject.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseProject.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/BaseProject.shared.unitTest.iml" />
+    </modules>
+  </component>
+</project>

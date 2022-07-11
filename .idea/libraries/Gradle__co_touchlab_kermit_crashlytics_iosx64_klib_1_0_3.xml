@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:kermit-crashlytics-iosx64:klib:1.0.3" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/kermit-crashlytics-iosx64/1.0.3/7000382f3e4f487ca4db3b5d9700c87264f8abbb/kermit-crashlytics.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/kermit-crashlytics-iosx64/1.0.3/2e7e118dfc5ed4508a3623fe14fab767fc548942/kermit-crashlytics-iosx64-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

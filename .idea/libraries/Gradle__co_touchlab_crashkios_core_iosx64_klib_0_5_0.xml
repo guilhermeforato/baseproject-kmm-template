@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:crashkios-core-iosx64:klib:0.5.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/crashkios-core-iosx64/0.5.0/ad18e1da4b8cbc226a7ea17f4147249e59cd2fb3/crashkios-core.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/crashkios-core-iosx64/0.5.0/634e68a540d19eb2fb50420a0ab6c0653a5d0eb3/crashkios-core-iosx64-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

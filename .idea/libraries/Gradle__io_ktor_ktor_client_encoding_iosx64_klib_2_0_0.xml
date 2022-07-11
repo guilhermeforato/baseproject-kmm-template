@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-encoding-iosx64:klib:2.0.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-encoding-iosx64/2.0.0/ec18214394e2988dbd190eb3db81d6aa7f028d8c/ktor-client-encoding.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-encoding-iosx64/2.0.0/52507b6daabb05fab88958edc66a2a4db80e9e29/ktor-client-encoding-iosx64-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
